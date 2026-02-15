@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwepsssss&label=Profile%20views&color=0e75b6&style=flat" alt="shwepsssss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwepsssss" alt="shwepsssss" /></a> </p>
-
 - 🔭 I’m currently working on **Mamad Nearby**
 
 - 🌱 I’m currently learning **Linux**
